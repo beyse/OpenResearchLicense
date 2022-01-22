@@ -1,6 +1,6 @@
 # OpenResearchLicense
 
-:warning: **DISCLAIMER**: I am not a lawyer. Nothing here is legal advice.
+> :warning: **DISCLAIMER**: I am not a lawyer. Nothing here is legal advice.
 
 Open Research License is derived from [Java Research License (JRL)](https://en.wikipedia.org/wiki/Java_Research_License) Version 1.6 found [here](https://www.openhub.net/licenses/Java_Research_License).
 
