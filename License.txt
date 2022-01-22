@@ -1,4 +1,4 @@
-JAVA RESEARCH LICENSE
+OPEN RESEARCH LICENSE
 Version 1.6
 
 I. DEFINITIONS.
@@ -27,7 +27,7 @@ or entities represented by the individual executing this License.
 
 II. PURPOSE.
 
-The Author is licensing the Software under this Java Research License (the
+The Author is licensing the Software under this Open Research License (the
 "License") to promote research, education, innovation, and development
 using the Software. This License is not intended to permit or
 enable access to the Software for active consultation as part of
@@ -80,10 +80,10 @@ As a condition to Your License, You agree to comply with the following
 restrictions and responsibilities:
 
 A. License and Copyright Notices. You must include a copy of this
-Java Research License in a Readme file for any Software or
+Open Research License in a Readme file for any Software or
 Modifications you distribute. You must also include the following
 statement, "Use and distribution of this Software is subject to the
-Java Research License included herein", (a) once prominently in the
+Open Research License included herein", (a) once prominently in the
 source code tree and/or specifications for Your source code
 distributions, and (b) once in the same file as Your copyright or
 proprietary notices for Your binary code distributions. You must cause
