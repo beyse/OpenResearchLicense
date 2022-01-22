@@ -8,9 +8,9 @@ You can see the changes to the license in the commit history. I made the changes
 
 | Permissions | Limitations | Conditions |
 |-------------|-------------|------------|
-|:green_circle: Academic use       |:red_circle: Commercial use | :large_blue_circle: License and copyright notice  |
-|:green_circle: Private use        |:red_circle: Liability      |  |
-|:green_circle: Distribution       |:red_circle: Warranty       |  |
+|:green_circle: Academic use       |:x: Commercial use | :large_blue_circle: License and copyright notice  |
+|:green_circle: Private use        |:x: Liability      |  |
+|:green_circle: Distribution       |:x: Warranty       |  |
 |:green_circle: Modification       |  |  |
 
 The file `open_research_license.txt` contains the actual Open Research License.
