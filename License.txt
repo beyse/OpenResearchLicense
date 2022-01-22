@@ -80,7 +80,7 @@ As a condition to Your License, You agree to comply with the following
 restrictions and responsibilities:
 
 A. License and Copyright Notices. You must include a copy of this
-Open Research License in a Readme file for any Software or
+Open Research License in a text file for any Software or
 Modifications you distribute. You must also include the following
 statement, "Use and distribution of this Software is subject to the
 Open Research License included herein", (a) once prominently in the
