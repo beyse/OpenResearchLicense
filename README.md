@@ -1,4 +1,4 @@
-# OpenResearchLicense
+# Open Research License
 
 > :warning: **DISCLAIMER**: I am not a lawyer. Nothing here is legal advice.
 
