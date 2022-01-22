@@ -159,8 +159,3 @@ intent of the parties, in which case, this License shall terminate.
 United States and the State of California, as applied to contracts
 entered into and performed in California between California residents.
 In no event shall this License be construed against the drafter.
-
-5. Export Control. As further described at
-http://www.the Author.com/its, you agree to comply with the U.S. export
-controls and trade laws of other countries that apply to Software
-and Modifications.
