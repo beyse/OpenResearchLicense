@@ -148,8 +148,3 @@ the parties concerning the subject matter hereof.
 unenforceable, such provision shall be reformed to the extent
 necessary to make it enforceable unless to do so would defeat the
 intent of the parties, in which case, this License shall terminate.
-
-3. Governing Law. This License is governed by the laws of the
-United States and the State of California, as applied to contracts
-entered into and performed in California between California residents.
-In no event shall this License be construed against the drafter.
