@@ -7,7 +7,7 @@ Open Research License is derived from [Java Research License (JRL)](https://en.w
 You can see the changes to the license in the commit history. I made the changes because I wanted to use a license exactly like the JRL but can generally be applied to any software without the *Java* and *Sun* terminology.  
 
 | Permissions | Limitations | Conditions |
-|:-----------:|-------------|------------|
+|-------------|-------------|------------|
 |:green_circle: Academic use       |:red_circle: Commercial use | :large_blue_circle: License and copyright notice  |
 |:green_circle: Private use        |:red_circle: Liability      |  |
 |:green_circle: Distribution       |:red_circle: Warranty       |  |
