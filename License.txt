@@ -6,10 +6,10 @@ I. DEFINITIONS.
 "Licensee" means You and any other party that has entered into and has
 in effect a version of this License.
 
-"Modifications" means any change or addition to the Software.
-
 "Software" means the source code and object code of the software
 made available by the Author pursuant to this License.
+
+"Modifications" means any change or addition to the Software.
 
 "The Author" means the Author of the software.
 
